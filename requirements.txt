@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+python-dotenv
+unstructured[pdf]
+pinecone>=4.0.0
+langchain-pinecone>=0.1.0
+langchain-openai
